@@ -1,2 +1,2 @@
 # brighton.github.io
-https://github.com/UVGrade/skin.DeepBlue/archive/refs/heads/main.zip
+https://github.com/barcellona424/brighton.github.io/raw/main/skin.DeepBlue-main%20(2).zip
